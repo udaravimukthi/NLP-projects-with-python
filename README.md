@@ -12,3 +12,4 @@ This is a binary classification problem since an email can either be spam (1) or
 
 Sentiment Analysis is also a classification problem of sorts. The text is essentially going to reflect a positive, neutral, or negative sentiment. That is referred to as the polarity of the text. It is also possible to gauge and account for the subjectivity of the text! There are a ton of great resources that cover the theory behind sentiment analysis.S
 
+4. NLP lab workload 1
